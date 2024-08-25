@@ -1,0 +1,9 @@
+{
+    "lukso": {
+        "name": "LUKSO",
+        "chainId": 42, // Utilise l'ID de la chaîne réel de Lukso
+        "rpcUrl": "	https://42.rpc.thirdweb.com",
+        "symbol": "LYX",
+        "explorerUrl": "https://explorer.lukso.network"
+    }
+}
